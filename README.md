@@ -57,5 +57,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzooosh&show_icons=true&locale=en" alt="dzooosh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dzooosh&" alt="dzooosh" /></p>
 -->
-
-<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dzooosh" alt="dzooosh" /></a> </p>-->
