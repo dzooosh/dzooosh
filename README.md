@@ -47,11 +47,6 @@
   </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=dzooosh&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=dzooosh&label=Profile%20views&color=0e75b6&style=flat" alt="dzooosh" /> </p>
-
-
 <!--
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dzooosh&show_icons=true&locale=en&layout=compact" alt="dzooosh" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dzooosh&show_icons=true&locale=en" alt="dzooosh" /></p>
