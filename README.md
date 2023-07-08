@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **alongejoshua@gmail.com**
 
-- ⚡ Fun fact **I am a grauate of the ALX Software Engineering Program**
+- ⚡ Fun fact **I am a graduate of the ALX Software Engineering Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
