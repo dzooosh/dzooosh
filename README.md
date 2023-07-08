@@ -3,11 +3,11 @@
 
 - 🔭 I am currently working on **ProjectNow.com Real Estate webstack project**
 
-- 🌱 I am currently learning **Django and Expressjs**
+- 🌱 I am currently learning **Django and React**
 
 - 📫 How to reach me **alongejoshua@gmail.com**
 
-- ⚡ Fun fact **I am a student of the ALX Software Engineering Program**
+- ⚡ Fun fact **I am a grauate of the ALX Software Engineering Program**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
