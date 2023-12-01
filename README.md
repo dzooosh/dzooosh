@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alonge Joshua</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
-- 🔭 I am currently working on **ProjectNow.com Real Estate webstack project**
+- 🔭 I am currently working on **Owanbe foods project using Django DRF for backend API and React for frontend**
 
 - 🌱 I am currently learning **Django and React**
 
