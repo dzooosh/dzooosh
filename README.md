@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joshua Alonge</h1>
-<h3 align="center">A passionate software engineer from Nigeria</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I am currently working on **Owanbe foods project using Django DRF for backend API and React for frontend**
 
